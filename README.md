@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me
+
+Hi and welcome to my project space! For the past 12 years, I've been working as a tech leader at a thriving nonprofit. I'm looking to transition into a data science or data-centered role, so I've been working on boosting my professional skills in this area. This professional portfolio includes some of the key projects I've been working on.
 
 <!--
 **allteramy/allteramy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
